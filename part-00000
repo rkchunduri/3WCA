@@ -1,0 +1,6 @@
+Concept(Set(5, 1),Set(  a, d),true)
+Concept(Set(2),Set(e, b, c),true)
+Concept(Set(4, 2, 3),Set(e),true)
+Concept(Set(5),Set(b, d),true)
+Concept(Set(5),Set(  a, c, d),true)
+Concept(Set(5, 1),Set(d),true)

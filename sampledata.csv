@@ -1,0 +1,6 @@
+Patient,Fever,Tiredness,Dry-Cough,Difficulty-in-Breathing,Sore-Throat
+P1,0,1,0,0,0
+P2,1,0,0,0,0
+P3,0,1,1,1,1
+P4,0,0,1,1,0
+P5,1,1,1,0,0

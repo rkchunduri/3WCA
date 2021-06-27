@@ -1,0 +1,12 @@
+pigeon,small,2legs,fly,bird
+fowl,small,2legs,bird
+duck,small,2legs,swim,bird
+Sparrowhawk,small,2legs,fly,hunt,bird
+elephant,big,4legs
+leopard,medium,4legs,hunt,run
+zebra,medium,4legs,run
+tiger,medium,4legs,hunt,run
+fox,small,4legs,hunt,run
+lion,big,4legs,hunt,run
+rhino,big,4legs,run
+eagle,medium,2legs,fly,hunt,bird

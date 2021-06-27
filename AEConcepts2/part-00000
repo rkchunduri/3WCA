@@ -1,0 +1,6 @@
+(Set(Set(2, 4))#,1 3#,Set(c, #),2)
+(Set(Set(2, 4))#,1 3#,Set(c, #),6)
+(Set(Set(1))#,2 4#,Set(e,  d, #),2)
+(Set(Set(1))#,2 3 4#,Set(e, #),4)
+(Set(Set(1))#,2 3 4#,Set(e, #),6)
+(Set(Set())#,3#,Set(e,  c,  a,  b, #),2)

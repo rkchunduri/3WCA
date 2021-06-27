@@ -1,0 +1,8 @@
+fish leech,needs water to live,lives in water,can move
+bream,needs water to live,lives in water,can move,has limbs
+frog,needs water to live,lives in water,lives on land,can move,has limbs
+dog,needs water to live,lives on land,can move,has limbs,breast feeds
+water weeds,needs water to live,lives in water,needs chloryphyll,monocotyledon
+reed,needs water to live,lives in water,lives on land,needs chloryphyll,monocotyledon
+bean,needs water to live,lives on land,needs chloryphyll,dicotyledon
+corn,needs water to live,lives on land,needs chloryphyll,monocotyledonx

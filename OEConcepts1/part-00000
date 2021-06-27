@@ -1,0 +1,6 @@
+(Set(1, #),Set(e,  a,  d,  b, #),Set(c, #),2)
+(Set(2 4, #),Set(a,  b,  c, #),Set(e, d, #),2)
+(Set(1 3, #),Set(d, #),Set(c, #),3)
+(Set(1 2 4, #),Set(a,  b, #),Set(#),6)
+(Set(1 2 4, #),Set(a,  b, #),Set(#),3)
+(Set(1 3, #),Set(d, #),Set(c, #),2)

@@ -16,6 +16,10 @@ Below is a simple example.
 
 For testing purpose, we attached covid 19 dataset with 20P and also the dataset from WHO in the repository. The data is loaded in HDFS while executing in cloud environment.
 
+Output is writtetn to AEConcepts and OEConcepts folder structure in the repository.
+
+
+
 ##Requirments##
 
 This algorithm implementated using Scala and Apache Spark. To execute in local Scala 2.12 with SBT is needed and the dependencies are need to define in .sbt file. 

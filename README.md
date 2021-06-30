@@ -11,11 +11,8 @@ input formal context and its complement simultaneously in two different threads.
 To be used by Spark Concept generation algorithm we prepare a single file data in a horizontal way and specify their number of objects/records and the number of attributes.
 Below is a simple example.
 ##Example Input Formal Context, the first column represemts set of  object and the first row represents set of attributes.
-,a,b,c,d,e
-1,1,1,0,1,1
-2,1,1,1,0,0
-3,0,0,0,1,0
-4,1,1,1,0,0
+![image](https://user-images.githubusercontent.com/5356816/123883787-4e84e080-d90f-11eb-8616-abd6a2c7596c.png)
+
 
 For testing purpose, we attached covid 19 dataset with 20P and also the dataset from WHO in the repository. The data is loaded in HDFS while executing in cloud environment.
 
